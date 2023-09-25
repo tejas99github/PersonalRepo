@@ -15,7 +15,11 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+
         String t = "tejas";
+
+        int a =20;
+
         assertTrue( true );
     }
 }
