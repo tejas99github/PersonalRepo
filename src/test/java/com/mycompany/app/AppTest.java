@@ -20,7 +20,6 @@ public class AppTest
 
         int a =20;
 
-        int j = 35;
         assertTrue( true );
     }
 }

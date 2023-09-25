@@ -10,7 +10,6 @@ public class App
     {
         int i =30;
         String s = "hi";
-        int k = 5;
 
         System.out.println( "Hello World!" );
     }
